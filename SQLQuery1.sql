@@ -28,15 +28,15 @@ CREATE TABLE GV
 
 
 INSERT INTO COSO (macoso, tencoso) VALUES
-('CS001', 'Cơ sở 1'),
-('CS002', 'Cơ sở 2');
+('CS003', 'Co so 3'),
+('CS004', 'Co so 4');
 
 -- Thêm dữ liệu vào bảng DONVI
 INSERT INTO DONVI (madonvi, tendonvi, macoso) VALUES
-('DV001', 'Đơn vị 1', 'CS001'),
-('DV002', 'Đơn vị 2', 'CS001'),
-('DV003', 'Đơn vị 3', 'CS002'),
-('DV004', 'Đơn vị 4', 'CS002');
+('DV005', 'Đơn vị 1', 'CS003'),
+('DV006', 'Đơn vị 2', 'CS003'),
+('DV007', 'Đơn vị 3', 'CS004'),
+('DV008', 'Đơn vị 4', 'CS004');
 
 -- Thêm dữ liệu vào bảng GV
 INSERT INTO GV (magv, hoten, sdt, ghichu, madonvi) VALUES

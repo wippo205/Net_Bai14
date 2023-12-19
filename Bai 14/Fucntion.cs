@@ -37,13 +37,25 @@ namespace Bai_14
         {
             DataTable table = new DataTable();
 
-            using (SqlDataAdapter dap = new SqlDataAdapter(sql, connection))
+            using (SqlConnection connection = new SqlConnection(@"Data Source=LAPTOP-L0J0D79V\WIPPOO;Initial Catalog=bai14;Integrated Security=True"))
             {
-                dap.Fill(table);
+                connection.Open();
+
+                using (SqlCommand command = new SqlCommand(sql, connection))
+                {
+                    using (SqlDataAdapter dap = new SqlDataAdapter(command))
+                    {
+                        dap.SelectCommand = command;
+                        
+                        dap.Fill(table);
+                    }
+                }
             }
 
             return table;
         }
+
+
 
         public static void RunSQL(string sql)
         {

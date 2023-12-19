@@ -7,3 +7,13 @@ C:\Users\h1h1m\OneDrive\Máy tính\Bai 14\Bai 14\bin\Debug\Bai 14.exe
 C:\Users\h1h1m\OneDrive\Máy tính\Bai 14\Bai 14\bin\Debug\Bai 14.pdb
 C:\Users\h1h1m\OneDrive\Máy tính\Bai 14\Bai 14\obj\Debug\Bai 14.exe
 C:\Users\h1h1m\OneDrive\Máy tính\Bai 14\Bai 14\obj\Debug\Bai 14.pdb
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\bin\Debug\Bai 14.exe.config
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\bin\Debug\Bai 14.exe
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\bin\Debug\Bai 14.pdb
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai_14.Form1.resources
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai_14.Form2.resources
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai_14.Properties.Resources.resources
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai 14.csproj.GenerateResource.cache
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai 14.csproj.CoreCompileInputs.cache
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai 14.exe
+C:\Users\h1h1m\OneDrive\Máy tính\NguyenHuuDai_2001207444\Bai 14\obj\Debug\Bai 14.pdb
